@@ -106,6 +106,7 @@ Strava offers an official, Anthropic-verified connector for Claude with read-onl
 - [Strava on Cotlet.dev](https://cotlet.dev/integrations/strava-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=strava&utm_content=find)
 - [PyPI package strava-cotlet-mcp](https://pypi.org/project/strava-cotlet-mcp/)
 - [Odel](https://odel.app/modules/cotlet/strava)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/strava/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-strava-to-ai-agents-guide)
 
 ## Also works with
